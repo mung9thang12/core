@@ -1,0 +1,18 @@
+{
+    "name": "mung9thang12/core",
+    "authors": [
+        {
+            "name": "mung9thang12",
+            "email": "mung9thang12@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3",
+        "mung9thang12/permission": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mung9thang12\\Core\\": "src/"
+        }
+    }
+}
