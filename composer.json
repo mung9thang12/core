@@ -1,5 +1,7 @@
 {
     "name": "mung9thang12/core",
+    "description": "cms for laravel",
+    "type": "project",
     "authors": [
         {
             "name": "mung9thang12",
