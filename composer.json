@@ -1,0 +1,30 @@
+{
+    "name": "mung9thang12/core",
+    "description": "cms for laravel",
+    "type": "library",
+    "authors": [
+        {
+            "name": "mung9thang12",
+            "email": "mung9thang12@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3",
+        "mung9thang12/admin": "^1.0",
+        "mung9thang12/permission": "^1.0",
+        "mung9thang12/repository": "^1.1",
+        "mung9thang12/asset": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mung9thang12\\Core\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mung9thang12\\Core\\Providers\\CMSServiceProvider"
+            ]
+        }
+    }
+}
