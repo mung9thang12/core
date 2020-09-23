@@ -1,7 +1,7 @@
 {
     "name": "mung9thang12/core",
     "description": "cms for laravel",
-    "type": "project",
+    "type": "library",
     "authors": [
         {
             "name": "mung9thang12",
