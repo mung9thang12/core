@@ -13,7 +13,7 @@
         "mung9thang12/admin": "^1.0",
         "mung9thang12/permission": "^1.0",
         "mung9thang12/repository": "^1.1",
-        "mung9thang12/asset": "^1.0"
+        "mung9thang12/asset-manager": "^1.0"
     },
     "autoload": {
         "psr-4": {
